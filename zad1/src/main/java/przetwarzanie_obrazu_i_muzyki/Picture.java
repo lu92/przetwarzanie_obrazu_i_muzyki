@@ -18,7 +18,10 @@ public enum Picture {
     S2("/s2.png"),
     KING1("/krol1.png"),
     KING2("/krol2.png"),
-    CIRCLE("/ko4.jpg");
+    CIRCLE("/ko4.jpg"),
+    PEPPERS("/peppers.png"),
+    FACE("/face.jpg"),
+    FACE2("/face2.jpg");
 
 
 
